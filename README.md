@@ -10,6 +10,7 @@ To get started with the Heroes API, follow these steps:
 2. Install the necessary dependencies by running `bundle install`.
 3. Set up the database by running `rails db:migrate`.
 4. Seed the database with sample data by running `rails db:seed`.  (This is optional)
+
 5. Start the server by running `rails s`.
 
 Now you're ready to make requests to the API!
@@ -129,4 +130,7 @@ If an error occurs while processing a request, the API will respond with an appr
 "error": "Hero not found"
 }
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
